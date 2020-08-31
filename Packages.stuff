@@ -8,7 +8,6 @@ Author: Chr1s
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.chr1s.jigglemode_1.0.5_iphoneos-arm.deb
-Icon: url://https://repo.chr1s.dev/icons/JiggleMode/icon.png
 Size: 17350
 MD5sum: D0C5FED2AC753EDE1A71BA3DD16051AA
 SHA1: 4E276F5810E8B9A202EA98F4C003535CAE51DC46
