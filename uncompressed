@@ -1,0 +1,29 @@
+Package: com.chr1s.jigglemode
+Name: Jiggle Mode
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description: Replaces "Edit Home Screen" with "Jiggle Mode" in the 3D touch menu
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.chr1s.jigglemode_1.0.5_iphoneos-arm.deb
+Size: 17350
+MD5sum: D0C5FED2AC753EDE1A71BA3DD16051AA
+SHA1: 4E276F5810E8B9A202EA98F4C003535CAE51DC46
+SHA256: C881593F27DBFFF4DA7D7F3146BDACFF6831BF314CE39DF78537FC050F89F714
+
+Package: com.chr1s.totallynotajoke
+Name: Totally Not A Joke
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Definitely not a prank..
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.chr1s.totallynotajoke_1.0.0_iphoneos-arm.deb
+Size: 4582
+MD5sum: FF6C5E857B180E6AC35920A5717F7550
+SHA1: F56FE82335A778225476B0C7862AC30A9FA3BB4F
+SHA256: 0497ADA611C2B292C0187AC81B2F9D4AEB14D1C9FF79FEC79C3F4F3DBC74BF1C
