@@ -22,8 +22,8 @@ module.exports = {
     borderColor: ['responsive', 'hover', 'focus'],
     borderOpacity: ['responsive', 'hover', 'focus'],
     borderRadius: ['responsive'],
-    borderStyle: ['responsive', 'hover'],
-    borderWidth: ['responsive', 'hover'],
+    borderStyle: ['responsive'],
+    borderWidth: ['responsive'],
     boxShadow: ['responsive', 'hover', 'focus'],
     boxSizing: ['responsive'],
     container: ['responsive'],
@@ -115,5 +115,7 @@ module.exports = {
     transitionDelay: ['responsive'],
     animation: ['responsive']
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-dark-mode')()
+  ],
 }
