@@ -1,7 +1,11 @@
 module.exports = {
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: theme => ({
+        'grad-banner': "url('/assets/gradbanner.png')",
+      })
+    },
   },
   variants: {
     accessibility: ['responsive', 'focus'],
