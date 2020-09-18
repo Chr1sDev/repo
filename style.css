@@ -1,0 +1,10 @@
+#Banner
+.banner {
+    background-image: url("/assets/gradbanner.png");
+    background-color: #FFFFFF;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
