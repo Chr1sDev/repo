@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'grad-banner': "url('/assets/gradbanner.png')",
+        'grad-banner': "url('/assets/gradbanner.png')"
       })
     },
   },
