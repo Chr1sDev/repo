@@ -11,23 +11,19 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Changes **'Edit Home Screen'** to **'Jiggle Mode'** in the 3d touch menu"
+                    "markdown": "Changes **'Edit Home Screen'** to **'Jiggle Mode'** in the 3d touch menu  \nAdds Ability to **'Jiggle'** icons outside of edit mode"
                 },
                 {
-                  "class": "DepictionSpacerView",
-                  "spacing": "0"
-                },
-                {
-                  "class": "DepictionMarkdownView",
-                  "markdown": "Adds Ability to **'Jiggle'** icons outside of edit mode"
-                },
-                {
-                    "class": "DepictionImageView",
-                    "URL": "https://repo.chr1s.dev/depictions/screenshots/jigglemode/1.png",
-                    "width": "169",
-                    "height": "300",
-                    "cornerRadius": "0",
-                    "alignment": "1"
+                  "class": "DepictionScreenshotsView",
+                  "itemCornerRadius": "5",
+                  "itemSize": "",
+                  "screenshots": 
+                    [
+                        {
+                        "url": "https://repo.chr1s.dev/depictions/screenshots/jigglemode/1.png",
+                        "accessibilityText": "screenshot 1"
+                        }
+                    ]
                 },
                 {
                     "class": "DepictionTableButtonView",
