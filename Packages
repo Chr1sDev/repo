@@ -8,6 +8,7 @@ Author: Chr1s
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Icon: https://repo.chr1s.dev/icons/JiggleMode/icon@3x.png
+SileoDepiction: https://repo.chr1s.dev/depictions/jigglemode.json
 Filename: debs/com.chr1s.jigglemode_1.2.1_iphoneos-arm.deb
 Size: 475666
 MD5sum: B0F1B68E4805ED539710105D408803BC
