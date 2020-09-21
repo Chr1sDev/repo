@@ -1,6 +1,6 @@
 {
-    "minVersion": "0.1",
-    "tintColor": "#20CFAF",
+    "minVersion": "0.4",
+    "headerImage": "https://repo.chr1s.dev/depictions/banners/jigglemode.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -14,9 +14,25 @@
                     "markdown": "Changes **'Edit Home Screen'** to **'Jiggle Mode'** in the 3d touch menu"
                 },
                 {
+                  "class": "DepictionSpacerView",
+                  "spacing": "0"
+                },
+                {
+                  "class": "DepictionMarkdownView",
+                  "markdown": "Adds Ability to **'Jiggle'** icons outside of edit mode"
+                },
+                {
+                    "class": "DepictionImageView",
+                    "URL": "https://repo.chr1s.dev/depictions/screenshots/jigglemode/1.png",
+                    "width": "169",
+                    "height": "300",
+                    "cornerRadius": "0",
+                    "alignment": "1"
+                },
+                {
                     "class": "DepictionTableButtonView",
-                    "title": "View Depiction Documentation",
-                    "action": "https://developer.getsileo.app/native-depictions",
+                    "title": "Chr1s Repo",
+                    "action": "https://repo.chr1s.dev",
                     "openExternal": 1
                 }
             ],
@@ -31,12 +47,17 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Type in any valid native depiction code here and watch it get rendered!"
+                    "markdown": "**v1.2.1**",
+                    "useBoldText": "YES"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added Preference Bundle\n- Ability to make icons jiggle permanently(beta)"
                 },
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "View Depiction Documentation",
-                    "action": "https://developer.getsileo.app/native-depictions",
+                    "title": "Chr1s Repo",
+                    "action": "https://repo.chr1s.dev",
                     "openExternal": 1
                 }
             ],
