@@ -1,0 +1,47 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#20CFAF",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Jiggle Mode"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Changes **'Edit Home Screen'** to **'Jiggle Mode'** in the 3d touch menu"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Depiction Documentation",
+                    "action": "https://developer.getsileo.app/native-depictions",
+                    "openExternal": 1
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Latest Version: 1.2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Type in any valid native depiction code here and watch it get rendered!"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "View Depiction Documentation",
+                    "action": "https://developer.getsileo.app/native-depictions",
+                    "openExternal": 1
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
+}
