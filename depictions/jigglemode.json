@@ -1,5 +1,5 @@
 {
-    "minVersion": "0.4",
+    "minVersion": "0.1",
     "headerImage": "https://repo.chr1s.dev/depictions/banners/jigglemode.png",
     "tabs": [
         {
@@ -16,7 +16,7 @@
                 {
                   "class": "DepictionScreenshotsView",
                   "itemCornerRadius": "5",
-                  "itemSize": "",
+                  "itemSize": "{160, 224}",
                   "screenshots": 
                     [
                         {
