@@ -1,9 +1,0 @@
-#Banner
-.banner {
-    background: rgb(49,175,228);
-    background: -moz-linear-gradient(45deg, rgba(49,175,228,1) 0%, rgba(202,44,248,1) 80%, rgba(231,17,251,1) 100%);
-    background: -webkit-linear-gradient(45deg, rgba(49,175,228,1) 0%, rgba(202,44,248,1) 80%, rgba(231,17,251,1) 100%);
-    background: linear-gradient(45deg, rgba(49,175,228,1) 0%, rgba(202,44,248,1) 80%, rgba(231,17,251,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#31afe4",endColorstr="#e711fb",GradientType=1);
-    height: 250;
-}
