@@ -14,16 +14,11 @@
                     "markdown": "Changes **'Edit Home Screen'** to **'Jiggle Mode'** in the 3d touch menu  \nAdds Ability to **'Jiggle'** icons outside of edit mode"
                 },
                 {
-                  "class": "DepictionScreenshotsView",
-                  "itemCornerRadius": "5",
-                  "itemSize": "{160, 224}",
-                  "screenshots": 
-                    [
-                        {
-                        "url": "https://repo.chr1s.dev/depictions/screenshots/jigglemode/1.png",
-                        "accessibilityText": "screenshot 1"
-                        }
-                    ]
+                  "class": "DepictionImageView",
+                  "URL": "https://repo.chr1s.dev/depictions/screenshots/jigglemode/1.png",
+                  "width": "169",
+                  "height": "300",
+                  "cornerRadius": "5"
                 },
                 {
                     "class": "DepictionTableButtonView",
