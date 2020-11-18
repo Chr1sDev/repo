@@ -1,13 +1,69 @@
 <!DOCTYPE html>
-<html><head>
-    <meta type="icon" href="">
+<html>
+<head>
+    <title>Chr1s' Repo</title>
     <link rel="stylesheet" href="/CSS/styles.css">
-    <link rel="stylesheet" href="/CSS/mystyle.css">
+    <style>
+        body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("/assets/image.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.typewriter h1 {
+  overflow: hidden; 
+  border-right: .15em solid white; 
+  white-space: nowrap; 
+  margin: 0 auto; 
+  letter-spacing: .15em; 
+  animation: 
+    typing 1.5s steps(9, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: white; }
+}
+
+  .shortcut {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+
+
+.text-shadow-pop-bottom{-webkit-animation:text-shadow-pop-bottom .6s both;animation:text-shadow-pop-bottom .6s both}
+
+@-webkit-keyframes text-shadow-pop-bottom{0%{text-shadow:0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF;-webkit-transform:translateY(0);transform:translateY(0)}100%{text-shadow:0 1px #FFFFFF,0 2px #FFFFFF,0 3px #FFFFFF,0 4px #FFFFFF,0 5px #FFFFFF,0 6px #FFFFFF,0 7px #FFFFFF,0 8px #FFFFFF;-webkit-transform:translateY(-8px);transform:translateY(-8px)}}@keyframes text-shadow-pop-bottom{0%{text-shadow:0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF,0 0 #FFFFFF;-webkit-transform:translateY(0);transform:translateY(0)}100%{text-shadow:0 1px #FFFFFF,0 2px #FFFFFF,0 3px #FFFFFF,0 4px #FFFFFF,0 5px #FFFFFF,0 6px #FFFFFF,0 7px #FFFFFF,0 8px #FFFFFF;-webkit-transform:translateY(-8px);transform:translateY(-8px)}} 
+</style>
 </head>
-<body class="">
-    <blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Lost Woods - The Legend of Zelda: Ocarina Of Time <a href="https://t.co/8LuoOALWdM">pic.twitter.com/8LuoOALWdM</a></p>&mdash; DJ Shaq Fan Account (@DJshaqfanacc) <a href="https://twitter.com/DJshaqfanacc/status/1299099746070663170?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
+<body class="bg">
+  <div class="flex flex-row typewriter text-shadow-pop-bottom">
+    <div class="flex-1"></div>
+    <div class="flex-1"></div>
+    <div class="flex-1 py-20">    
+      <h1 class="font-bold text-gray-500 text-6xl">Chr1s' Repo</h1>
+    </div>
+    <div class="flex-1"></div>
+    <div class="flex-1"></div>
+  </div>
 </body>
 </html>
