@@ -50,7 +50,7 @@ Package: com.chr1s.cleanlock
 Name: Clean Lock
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Minialistic lockscreen
+Description: Minimalistic lockscreen
 Maintainer: Chr1s
 Author: Chr1s
 Section: Tweaks
