@@ -76,11 +76,11 @@ MD5sum: A224EC6B40C0B208AED4CED5CFEE9F75
 SHA1: B86769AC8F26EF41CE822A8D6685331E6EB8BAF0
 SHA256: 7D40BE3C6B8338F5C76008B4744F08C2A6565DE38A5479F7670029A0204F8FFC
 
-Package: com.chr1s.picelcons
+Package: com.chr1s.pixelcons
 Name: Pixelcons
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: ICOC Teens sticker pack
+Description: Pixelize Icons
 Maintainer: Chr1s
 Author: Chr1s
 Section: Tweaks
@@ -90,3 +90,18 @@ Size: 2806
 MD5sum: 2481E56DDBCCBCF85C279FB96BC29506
 SHA1: E4C51BD977154ACBE7A20EEEE6AC4D78363F56F7
 SHA256: ECDB2B81EDC22640161310FE488A2BAC13807794965E11CE1C05BB3FDDAD3ACF
+
+Package: com.chr1s.colorfold
+Name: ColorFold
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Colorize folder icons
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.chr1s.colorfold_0.0.1_iphoneos-arm.deb
+Size: 3208
+MD5sum: 6EDDAD4083C82449DF93AC849AF8C05D
+SHA1: D580A33A8EB5320FD25800414856349D738885CF
+SHA256: 86DA34295E6F9A5B2A0EB9073D66BCCE31D24550B0419112059B1450CFD33F05
