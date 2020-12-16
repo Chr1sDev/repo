@@ -31,21 +31,6 @@ MD5sum: FF6C5E857B180E6AC35920A5717F7550
 SHA1: F56FE82335A778225476B0C7862AC30A9FA3BB4F
 SHA256: 0497ADA611C2B292C0187AC81B2F9D4AEB14D1C9FF79FEC79C3F4F3DBC74BF1C
 
-Package: com.chr1s.oldbar
-Name: Old Bar
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Bring back iOS 6 status bar color!
-Maintainer: Chr1s
-Author: Chr1s
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.chr1s.oldbar_1.0.0_iphoneos-arm.deb
-Size: 3964
-MD5sum: D2965C2108EB19E032D1B0DE224C5CE8
-SHA1: 380D4A4C558E55E30BEA0396AA9E44A593BC2009
-SHA256: C05B6776845241ED2DB39D5FE227906C5664CFCAAA08CED0A5DBFC364B9C6496
-
 Package: com.chr1s.cleanlock
 Name: Clean Lock
 Version: 1.0.0
